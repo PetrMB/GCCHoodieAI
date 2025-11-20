@@ -1,0 +1,5 @@
+{
+  "name": "SAP GCC Hoodie Photo Booth",
+  "description": "Generate professional LinkedIn-style portraits wearing custom Škoda GCC branded hoodies using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
